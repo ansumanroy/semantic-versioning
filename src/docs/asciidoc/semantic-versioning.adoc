@@ -252,7 +252,7 @@ If you run gradlew tasks, you can now see the additional tasks in the build cate
 [source]
 .Newly added tasks
 ----
-Build tasks
+==Atma's Tasks
 -----------
 assemble - Assembles the outputs of this project.
 build - Assembles and tests this project.
