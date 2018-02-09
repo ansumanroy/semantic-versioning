@@ -63,7 +63,7 @@ publishing { // <1>
 
     repositories { // <2>
         maven {
-            url "http://${nexusHost}/content/repositories/${nexusRepo}-${project.version.toString().endsWith('-SNAPSHOT') ? 'snapshots' : 'releases'}"
+            url "http://${nexusHost}/repository/${nexusRepo}-${project.version.toString().endsWith('-SNAPSHOT') ? 'snapshots' : 'releases'}"
             // <3>
             credentials {
                 username "${nexusUser}"
