@@ -5,7 +5,7 @@ Tony Mkhael <tony.mkhael@gmail.com>
 
 ## What is this about?
 
-if you're unfamiliar with semantic versioning, please start reading [here](http://semver.org/).
+If you're unfamiliar with semantic versioning, please start reading [here](http://semver.org/).
 The rest of the document will focus on how to effectively use semantic versioning for your OSS projects.
 It will guide you in detail through all the steps needed to
 
